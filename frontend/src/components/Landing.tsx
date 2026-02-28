@@ -111,7 +111,7 @@ export const Landing = () => {
                   top={'10px'}
                 />
                 <Text fontSize={'lg'} position={'absolute'} right={'-125px'} top={'-15px'} transform={'rotate(10deg)'}>
-                  (408) 617-9557
+                  (831) 750-1583
                 </Text>
               </Box>
             </Stack>
